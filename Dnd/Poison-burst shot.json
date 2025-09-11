@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "name": "Damage Roll",
+      "rolls": [
+        {
+          "damage_type": "fire",
+          "dice_count": 8,
+          "dice_type": 6,
+          "save_fail_mod": 0.5,
+          "scaling": [
+            {
+              "dice_count": 1,
+              "level": 1
+            }
+          ]
+        }
+      ],
+      "save_ability": "dexterity",
+      "type": "save"
+    }
+  ],
+  "aoe_size": 15,
+  "aoe_type": "sphere",
+  "cast_time": 1,
+  "cast_time_type": "action",
+  "classes": [
+    "sorcerer",
+    "wizard"
+  ],
+  "components": [
+    "verbal",
+    "somatic",
+    "material"
+  ],
+  "description": "A small green orb is lobbed to a pont within range that busrts into a cloud of poisonous air. Each creature in a 15-foot-radius sphere centered on that point must make a constitution saving throw. A target takes 4d12 poison damage on a failed save, or half as much damage on a successful one.",
+  "duration_type": "instantaneous",
+  "higher_level": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.",
+  "level": 3,
+  "material_description": "Any bottle of parfume",
+  "name": "Poison-burst shot",
+  "range": 150,
+  "range_type": "ranged",
+  "scaling": "spell_level",
+  "school": "evocation",
+  "source": "phb 241",
+  "action_list": [
+    {
+      "name": "Damage Roll",
+      "rolls": [
+        {
+          "damage_type": "fire",
+          "dice_count": 8,
+          "dice_type": 6,
+          "save_fail_mod": 0.5,
+          "scaling": [
+            {
+              "dice_count": 1,
+              "level": 1
+            }
+          ]
+        }
+      ],
+      "save_ability": "dexterity",
+      "type": "save"
+    }
+  ]
+}

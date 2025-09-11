@@ -1,0 +1,1 @@
+>formulák halmaza xd

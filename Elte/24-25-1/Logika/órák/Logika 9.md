@@ -1,0 +1,72 @@
+biz hogy: |- G v !G
+
+!(G v !G), G |- G [azon]
+!(G v !G), G |- G v !G [vb], !(G v !G), G |- !(G v !G) [azon]
+!(G v !G) |- !G [!a]
+!(G v !G) |- G v !G [vb], !(G v !G) |- !(G v !G) [azon]
+|- !!(G v !G) [!b]
+|- G v !G [!a]
+
+----
+
+## Szekvent kalkulus
+
+A, B -> C, D <=> A ^ B > C v D
+
+---
+A > A
+
+A -> A (azon)
+-> A>A (-> >)
+
+---
+A -> !!A
+
+A -> A
+A,!A -> 
+A -> !!A (->!)
+
+---
+!(A>B) -> !Av!B
+
+A,B,A -> B
+A,B -> A>B (->>)
+A -> (A>B), !B (->!)
+-> (A>B), !A,!B(->!)
+-> (A>B), !Av!B (->v)
+!(A>B) -> !Av!B (!->)
+
+---
+(AvB)>C -> (A>C)v(B>C)
+
+A, B -> A, B, C, C (azon)
+A, B -> (AvB), C, C (->v);    C, A, B -> C, C (azon)
+(AvB)>C, A, B -> C, C (>->)
+(AvB)>C, A -> C, (B>C) (->>)
+(AvB)>C -> (A>C), (B>C) (->>)
+(AvB)>C -> (A>C)v(B>C) (->v) 
+
+---
+(AvB)>C -> (A>C)^(!BvC)
+
+B -> A, B, C (azon)
+A -> C, A, B (azon);  -> A, B, !B, C (->!)
+A -> C, AvB (->v); C, A -> C (Azon) ; -> AvB, !B, C (->v); C -> !B, C (Azon)
+(AvB)>C, A -> C (>->) ;  (AvB)>C -> !B,C (>->)
+(AvB)>C -> A>C (->>); (AvB)>C -> !BvC (->v)
+(AvB)>C -> (A>C)^(!BvC) (->^)
+
+---
+!*A*xP(x)vR(y) -> *E*x(P(x)>R(y))
+
+P(*a*) -> R(y), *A*xP(x), P(*a*) (azon)
+-> P(*a*)>R(y), *A*xP(x), P(*a*) (->>)
+-> *E*x(P(x)>R(y)), *A*xP(x), P(*a*) (->*E*)
+-> *E*x(P(x)>R(y)), *A*xP(x) (->*A*) ; \*
+!*A*xP(x) -> *E*x(P(x)>R(y)) (!->); R(y) -> *E*x(P(x)>R(y)) (->*E*)
+!*A*xP(x)vR(y) -> *E*x(P(x)>R(y)) (v->)
+
+R(y), P(*a*) -> R(y), *E*x(P(x)>R(y)) (azon)
+R(y) -> P(*a*)>R(y), *E*x(P(x)>R(y)) (->>)
+R(y) -> *E*x(P(x)>R(y)) (->*E*)
+\*

@@ -1,0 +1,1 @@
+[[Dedukciós Tétel]] töbszörös alkalmazása
