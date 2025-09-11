@@ -1,0 +1,1 @@
+# Obsidia jegyzetek és koncepciók
