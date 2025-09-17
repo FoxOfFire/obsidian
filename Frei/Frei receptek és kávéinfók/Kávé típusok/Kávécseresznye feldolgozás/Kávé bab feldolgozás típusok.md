@@ -1,0 +1,4 @@
+- [[Száraz]]
+- [[Nedves]]
+- [[Édes]]
+#kvfeldolgozás

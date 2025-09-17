@@ -1,0 +1,1 @@
+a presszó tetején kicspódó fehérje
