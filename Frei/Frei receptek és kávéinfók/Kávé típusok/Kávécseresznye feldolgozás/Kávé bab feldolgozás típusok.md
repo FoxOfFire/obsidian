@@ -1,4 +1,6 @@
-- [[Száraz]]
-- [[Nedves]]
-- [[Édes]]
-#kvfeldolgozás
+# Kávé típusok
+
+- \[[Száraz]\]
+- \[[Nedves]\]
+- \[[Édes]\]
+  #kvfeldolgozás

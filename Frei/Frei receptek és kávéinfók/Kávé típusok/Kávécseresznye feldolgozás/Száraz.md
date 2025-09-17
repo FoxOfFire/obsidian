@@ -1,2 +1,5 @@
-A [[kávécseresznye]]-t kiteszik a napra száradni és aztán szárazan lehántolják a gyümölcs húst
-#kvfeldolgozás
+# száraz cseresznye
+
+A \[[kávécseresznye]\]-t kiteszik a napra száradni és
+aztán szárazan lehántolják a gyümölcs húst
+kvfeldolgozás

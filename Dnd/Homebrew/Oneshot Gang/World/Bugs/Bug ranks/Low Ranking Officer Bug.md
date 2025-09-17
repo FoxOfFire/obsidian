@@ -1,8 +1,15 @@
->## Description
->One of the [[Bug Ranks]] characterised by low inteligence, that are capable of making decidions.
->___
->### Includes:
->- [[Brood Mother]]
->___
->## Tags
+> ## Description
+>
+> One of the \[[Bug Ranks]\] characterised by low inteligence, that are capable of making decidions.
+>
+> ______________________________________________________________________
+>
+> ### Includes:
+>
+> - \[[Brood Mother]\]
+>
+> ______________________________________________________________________
+>
+> ## Tags
+
 #ranks #dnd #bugs

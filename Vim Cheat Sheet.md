@@ -1,12 +1,14 @@
-## 🧭 Navigation
+# 🧭 Navigation
 
-### basic
+## basic
+
 - `h` - Move left
 - `l` - Move right
 - `j` - Move down
 - `k` - Move up
 
-### line
+## line
+
 - `w` - Jump to start of next word
 - `b` - Jump to start of previous word
 - `e` - Jump to end of word
@@ -14,26 +16,28 @@
 - `^` - Jump to first non-blank character of line
 - `$` - Jump to end of line
 
-### paragraph
-- `{` — Previous paragraph  
-- `}` — Next paragraph  
-- `zz` — Center the current line  
-- `zt` — Move current line to **top** of screen  
-- `zb` — Move current line to **bottom** of screen
-- `Ctrl + d` — Scroll half a screen **down**  
-- `Ctrl + u` — Scroll half a screen **up**  
-- `Ctrl + f` — Scroll **full screen down**  
-- `Ctrl + b` — Scroll **full screen up**  
+## paragraph
 
-### file
+- `{` — Previous paragraph
+- `}` — Next paragraph
+- `zz` — Center the current line
+- `zt` — Move current line to **top** of screen
+- `zb` — Move current line to **bottom** of screen
+- `Ctrl + d` — Scroll half a screen **down**
+- `Ctrl + u` — Scroll half a screen **up**
+- `Ctrl + f` — Scroll **full screen down**
+- `Ctrl + b` — Scroll **full screen up**
+
+## file
+
 - `:42` - Go to line `42` (or any number)
 - `gg` - Go to top of file
 - `G` - Go to bottom of file
 - `gd` - Go to definition
 - `gf` - Go to file (import)
-- `:vsplit file` — Open file in vertical split  
-- `:split file` — Open file in horizontal split  
-- `:Ex` or `:Explore` — Open file explorer  
+- `:vsplit file` — Open file in vertical split
+- `:split file` — Open file in horizontal split
+- `:Ex` or `:Explore` — Open file explorer
 
 ## ✏️ Insert Mode
 
@@ -88,11 +92,10 @@
 
 ## 🪝 Markers & Jumps
 
-- `m[a-z]` — Set a mark (e.g., `ma` sets mark `a`)  
-- `'a` — Jump to beginning of line with mark `a`  
-- `` `a `` — Jump to exact cursor position of mark `a`  
-- ``Ctrl + o`` — Go **back** to previous jump location  
-- ``Ctrl + i`` — Go **forward** to next jump location  
+- `m[a-z]` — Set a mark (e.g., `ma` sets mark `a`)
+- `'a` — Jump to beginning of line with mark `a`
+- `Ctrl + o` — Go **back** to previous jump location
+- `Ctrl + i` — Go **forward** to next jump location
 
 ## ✨ Other
 
@@ -102,4 +105,3 @@
 - `:q` - Quit
 - `:wq` - Save and quit
 - `:q!` - Force quit (discard changes)
-

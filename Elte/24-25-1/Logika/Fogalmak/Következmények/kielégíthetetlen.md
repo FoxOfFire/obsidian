@@ -1,3 +1,3 @@
->semmilyen interpretációban nem igaz
+> semmilyen interpretációban nem igaz
 >
->minden logikai állításnak a következménye
+> minden logikai állításnak a következménye

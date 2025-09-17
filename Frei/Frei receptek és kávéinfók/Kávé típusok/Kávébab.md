@@ -1,1 +1,1 @@
-[[kávécseresznye]] magja
+# \[[kávécseresznye]\] magja

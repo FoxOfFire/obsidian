@@ -18,8 +18,8 @@
 > gyengusz typing
 > változónévadás nem lehet kulcsszó
 > változó típusok ala int dict stb..
-> léteznek listagenerátorok, \[i*2 for i in range(10)]
-> t = "almafa", t\[4:6] -> "fa", releváns listáknál is nem csak stringeknél
+> léteznek listagenerátorok, [i\*2 for i in range(10)]
+> t = "almafa", t[4:6] -> "fa", releváns listáknál is nem csak stringeknél
 > *w3schools releváns*
 > zip függvény két lista curryzése, releváns
 > *lehet hibavolt ezt a tárgyat felvenni xd*

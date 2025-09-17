@@ -1,5 +1,5 @@
->minden interpretációban igaz
+> minden interpretációban igaz
 >
->minden logikai állítás következménye
+> minden logikai állítás következménye
 >
->{} |= tautológia
+> {} |= tautológia

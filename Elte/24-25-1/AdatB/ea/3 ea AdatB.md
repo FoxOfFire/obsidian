@@ -1,5 +1,5 @@
-Previously on [[2 ea AdatB]]
->[[SQL]] definiálása és részletezése
+Previously on \[[2 ea AdatB]\]
 
+> \[[SQL]\] definiálása és részletezése
 
-Next on [[4 ea AdatB]]
+Next on \[[4 ea AdatB]\]

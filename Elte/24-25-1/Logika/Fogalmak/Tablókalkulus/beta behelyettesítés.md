@@ -1,3 +1,3 @@
-érdemes előbb az [[alpha behelyettesítés]]t megcsinálnoiű
+érdemes előbb az \[[alpha behelyettesítés]\]t megcsinálnoiű
 
 két ágú tabló

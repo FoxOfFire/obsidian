@@ -1,2 +1,2 @@
 Zht írtunk
-Prev [[Logika 5]]
+Prev \[[Logika 5]\]

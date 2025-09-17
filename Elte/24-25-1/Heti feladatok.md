@@ -1,2 +1,2 @@
->- [[Logika Követelmények]] beadandók
->- [[Web követelmények]] modularizáló feladatok
+> - \[[Logika Követelmények]\] beadandók
+> - \[[Web követelmények]\] modularizáló feladatok

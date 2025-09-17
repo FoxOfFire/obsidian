@@ -1,9 +1,9 @@
->Jelölése: A > B
->[[Igazságtábla]]ja:
->
-| A   | B   | A > B |
+> Jelölése: A > B
+> \[[Igazságtábla]\]ja:
+
+| A | B | A > B |
 | --- | --- | ----- |
-| i   | i   | i     |
-| i   | h   | h     |
-| h   | i   | i     |
-| h   | h   | i     |
+| i | i | i |
+| i | h | h |
+| h | i | i |
+| h | h | i |

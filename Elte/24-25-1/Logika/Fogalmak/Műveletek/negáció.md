@@ -1,7 +1,7 @@
->Jelölése: !A
->[[Igazságtábla]]ja:
->
-| A   | !A  |
+> Jelölése: !A
+> \[[Igazságtábla]\]ja:
+
+| A | !A |
 | --- | --- |
-| i   | h   |
-| h   | i   |
+| i | h |
+| h | i |

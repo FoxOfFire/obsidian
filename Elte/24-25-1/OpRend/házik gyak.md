@@ -1,2 +1,2 @@
 c gyakorlás lol
-([[OpRend Követelmények]])
+(\[[OpRend Követelmények]\])

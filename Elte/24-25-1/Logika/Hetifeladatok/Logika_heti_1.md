@@ -1,4 +1,4 @@
-Prev: [[Logika Követelmények]]
+Prev: \[[Logika Követelmények]\]
 E -> eszek levest
 F -> aztmondom hogy finom a leves
 D -> kapok deszertet
@@ -7,5 +7,3 @@ D -> kapok deszertet
 ¬(F ∧ ¬D)
 ¬(E ⊃ D)
 E ∧ (F ⊃ D)
-
-

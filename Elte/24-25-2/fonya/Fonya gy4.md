@@ -1,44 +1,59 @@
 ## 5.órai feladatok
----
+
+______________________________________________________________________
+
 ### 1
+
 *Szintaktikus elemző*
+
 - S -> neE | nc
 - E -> veE | C
 - C -> c
-*Lexikális elemző*
+  *Lexikális elemző*
 - '\[' -> n
-- \[a-zöi]+ -> e
+- [a-zöi]+ -> e
 - ',' -> v
-- ']' ->c
+- '\]' ->c
 
->\[alma,körte,szilva] (->nevevec (->S (✅)))))
+> [alma,körte,szilva] (->nevevec (->S (✅)))))
 
----
+______________________________________________________________________
+
 ### 2
+
 char etuje( string s, int index);
 int osszeg( int x, int y,);
 
 *Lexikális elemző*
+
 - [a-z]+ -> a
+
 - '(' -> n
+
 - ')' -> c
+
 - ',' -> v
+
 - ';' -> p
 
-- \[ \\n] ->
+- [ \\n] ->
+
 - . -> LEXERROR
 
 *Szintaktikus elemző*
+
 - S -> L | ε
 - L -> LL | A
 - A -> aanBcp | aancp
 - B -> aa | aavB
 
----
+______________________________________________________________________
+
 ### 3
+
 blokkszerkezet leírása
-begin 
-skip  
+begin
+skip\
 end
 
 *Lexickális elemző*
@@ -46,21 +61,25 @@ end
 - "begin" -> b
 - "end" -> e
 - "skip" -> s
-- [ \n] ->
+- [ \\n] ->
 - . -> LEXERROR
 
 *Szintaktikus elemző*
+
 - S -> ε | A
 - A -> AA | B | bAe
 - B -> s | ε
 
->*vagy*
+> *vagy*
 > S -> ε | sS | bSeS
 
----
+______________________________________________________________________
+
 ### 4
+
 ha páros akkor páratlan := !kulcsszó
 *Lexickális elemző*
+
 - "!"[a-z0-9]+ -> var
 - "ha" -> ha
 - "akkor" -> akkor
@@ -71,12 +90,13 @@ ha páros akkor páratlan := !kulcsszó
 - ":=" -> ert_ad
 - "+" -> plus
 - "-" -> minus
-- \[0-9]+ -> szam
-- [ \n] ->
+- [0-9]+ -> szam
+- [ \\n] ->
 - . -> LEXERROR
 
 *Szintaktikus elemző*
-- S ->  STATEMENTS | ε
+
+- S -> STATEMENTS | ε
 - STATEMENTS -> STATEMENT STATEMENTS | STATEMENT
 - STATEMENT -> ASSIGN | IF
 - ASSIGN -> var er_tad ERTEK

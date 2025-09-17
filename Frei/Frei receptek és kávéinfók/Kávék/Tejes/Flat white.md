@@ -1,6 +1,6 @@
-[[Doppio]] alapú [[krémes tej]]jel felöntve
-[[latte art]]tal készül
+# Flatwhite
 
-csak [[Speciality kávé]]ból készül
+\[[Doppio]\] alapú \[[krémes tej]\]jel felöntve
+\[[latte art]\]tal készül
 
-#tejes
+csak \[[Speciality kávé]\]ból készül
