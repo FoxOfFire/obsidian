@@ -3,11 +3,11 @@
 > ## The inciting incident
 >
 > The group of hunters: \[[Garry Silverbow]\] \[[Larry Silverbow]\]
->\[[Barry Silverbow]\] \[[Jerry Silverbow]\] were sent out by the hunters guild
->to hunt for animals, but what the four brodhers didn't expect was one the as of
->yet completely unknown creatures that will be known to the guild as
->\[[Brood Mother]\]s have come across the planes through a \[[Bug Portal]\] to start
->their conquest of this plane, and they went missing.
+> \[[Barry Silverbow]\] \[[Jerry Silverbow]\] were sent out by the hunters guild
+> to hunt for animals, but what the four brodhers didn't expect was one the as of
+> yet completely unknown creatures that will be known to the guild as
+> \[[Brood Mother]\]s have come across the planes through a \[[Bug Portal]\] to start
+> their conquest of this plane, and they went missing.
 >
 > ______________________________________________________________________
 >
@@ -32,4 +32,6 @@
 >
 > ## Tags
 
-    #dnd
+```
+#dnd
+```

@@ -19,6 +19,6 @@ or half as much damage on a successful one.
 > ______________________________________________________________________
 
 **_At Higher Levels._**
-    When you cast this spell using a spell slot of 4th level or higher,
-    the damage increases by 1d6 for each slot level above 3rd.
- #dnd
+When you cast this spell using a spell slot of 4th level or higher,
+the damage increases by 1d6 for each slot level above 3rd.
+#dnd

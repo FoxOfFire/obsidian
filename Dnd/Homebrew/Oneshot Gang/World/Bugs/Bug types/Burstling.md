@@ -3,9 +3,9 @@
 > ## Description
 >
 > A Buglike creatrue that is mostly a sack of pulsing acid, with 6 legs.
->It is unable to think on its own, and after some time of not recieving commands
->from a \[[Low Ranking Officer Bug]\] it will burst on its own, after staying idle.
->This creature is basically a bug themed walking mine.
+> It is unable to think on its own, and after some time of not recieving commands
+> from a \[[Low Ranking Officer Bug]\] it will burst on its own, after staying idle.
+> This creature is basically a bug themed walking mine.
 >
 > ______________________________________________________________________
 >
@@ -37,18 +37,21 @@
 > ______________________________________________________________________
 >
 > ***Brood.***
->> If Spawned In combat by another creature It skips its first turn,
->>and goes after the creature that spawned it
+>
+> > If Spawned In combat by another creature It skips its first turn,
+> > and goes after the creature that spawned it
 >
 > ***Burrow.***
->> Can hide underground, but is unable to move underground. Can be reveald by
->> a perseption check, in which case this creature makes a stealth check.
->>If the perception check is equal or greater than the stealt, the creature is revealed.
+>
+> > Can hide underground, but is unable to move underground. Can be reveald by
+> > a perseption check, in which case this creature makes a stealth check.
+> > If the perception check is equal or greater than the stealt, the creature is revealed.
 >
 > ***Explode on death.***
->> When this creautre dies it splashes acid around the creatures in a 5ft,
->> creatures in range have to make a dc 14 dexterity saving throw,
->> on an unsuccessful save they take damage equal to 5d4
+>
+> > When this creautre dies it splashes acid around the creatures in a 5ft,
+> > creatures in range have to make a dc 14 dexterity saving throw,
+> > on an unsuccessful save they take damage equal to 5d4
 >
 > ## Actions
 >
@@ -60,4 +63,4 @@
 >
 > ## Tags
 >
->#dnd #World #Bugs #BugTypes #Stats
+> #dnd #World #Bugs #BugTypes #Stats

@@ -4,7 +4,7 @@
 kritikus behelyettesítés muszály újnak lennie
 
 érdemes előbb az \[[alpha behelyettesítés]\] és a
-    \[[beta behelyettesítés]\]eket megcsinálni
+\[[beta behelyettesítés]\]eket megcsinálni
 
 ∀ ∃
 ∧ ∨ ⊃ ¬

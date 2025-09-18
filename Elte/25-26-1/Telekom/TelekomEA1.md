@@ -94,5 +94,5 @@
 > > > Tier-2: Hálózatok a csomópontjai (nemzeti) (pár ezer)
 > > > Tier-1: Nincs szolgáltatója, mindenki mindenkivel össze
 > > > van kötve (világ) (pár tucat)
-> > Vannak peer összekötések, két szolgáltató megegyezik abban,
-> > hogy adatforgalmat hajlandóak kicserélni *(később részletezze)*
+> > > Vannak peer összekötések, két szolgáltató megegyezik abban,
+> > > hogy adatforgalmat hajlandóak kicserélni *(később részletezze)*

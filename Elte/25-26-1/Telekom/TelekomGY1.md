@@ -28,7 +28,7 @@
 >
 > ### Propagációs késés
 >
->Mennyi a terjedési késleltetés 200 km hosszú optikai szálon (5 μs/km)?
+> Mennyi a terjedési késleltetés 200 km hosszú optikai szálon (5 μs/km)?
 >
 > > 200\*5 = 1 m
 >

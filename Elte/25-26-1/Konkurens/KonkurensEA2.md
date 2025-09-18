@@ -4,17 +4,17 @@ ott hagytuk abba hogy nem determisztikus viselkedés
 nem kéne hogy függjünk az ütemezéstől
 
 ## Ütemezési stratégiák
+
+> ### Run to completion
 >
->### Run to completion
->>
->> fügvényhatárokig csinálja a dolgát sacc
+> > fügvényhatárokig csinálja a dolgát sacc
 >
 > ### Preemptive
->>
->> igazságosabb
+>
+> > igazságosabb
 
 ## Runnable interface
->
+
 > futtatható a run() metódus
 > egy thread-elt objektummal össze lehet kötni a lefutását
 > leszármazásbeli előnyei vannak

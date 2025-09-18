@@ -1,7 +1,7 @@
 # Brood Mother
 
 ## Description
->
+
 > A Buglike creatrue that has an oversized abdomen with holes in it,
 > from where it spawns its \[[Burstling]\]s.
 > It has six legs and a colourtheme of yellowish greens.
@@ -38,22 +38,26 @@
 > ______________________________________________________________________
 >
 > ***Brood.***
+>
 > > This creature contains 3d6 + 10 \[[Burstling]\]s and spawns
-> > them through the battle.\
+> > them through the battle.\\
 >
 > On death the Burstlings crawl out of the carcas one by one.
 >
 > ### Actions
 >
 > ***Spawn Brood.***
+>
 > > This creature Spawns 1d4 + 1 \[[Burstling]\]s around itself,
 > > if it has space to do it in a 5ft radius.
 >
 > ***Lob Brood.***
+>
 > > Creature Spawns 1d4 \[[Burstling]\]s around itself than Shoots
 > > them 6d6 feet in the direction of its enemy
 >
 > ***Bite.***
+>
 > > Melee Weapon atack: +5 to hit, reach 5ft., one target. *Hit:* (1d8 + 4) prc damage
 >
 > ______________________________________________________________________

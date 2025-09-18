@@ -79,7 +79,7 @@ bruh
 
 !P>Q,Q>R,!R,!P,Q |- Q>R (azon) ; !P>Q,Q>R,!R,!P,Q |- Q (azon)
 !P>Q,Q>R,!R,!P |- !P>Q (azon) ; !P>Q,Q>R,!R,!P |- !P (azon) ;
-    !P>Q,Q>R,!R,!P,Q |- R (>a); !P>Q,Q>R,!R,!P,Q |- !R(azon)
+!P>Q,Q>R,!R,!P,Q |- R (>a); !P>Q,Q>R,!R,!P,Q |- !R(azon)
 !P>Q,Q>R,!R,!P |- Q (>a); !P>Q,Q>R,!R,!P |- !Q (!b)
 !P>Q,Q>R,!R |- !!P (!b)
 !P>Q,Q>R,!R |- P (!a)
@@ -95,7 +95,7 @@ bruh
 ### {!Y^(!!X>!Z),!Z>!(Xv!Y)} |- Z (3)
 
 !Y, !!X>!Z, !Z>!(Xv!Y), !Z |- !Y (azon) ; !Y, !!X>!Z, !Z>!(Xv!Y), !Z |- !Z (azon);
-    !Y, !!X>!Z, !Z>!(Xv!Y), !Z |- !Z>!(Xv!Y) (azon)
+!Y, !!X>!Z, !Z>!(Xv!Y), !Z |- !Z>!(Xv!Y) (azon)
 !Y, !!X>!Z, !Z>!(Xv!Y), !Z |- Xv!Y (vb); !Y, !!X>!Z, !Z>!(Xv!Y), !Z |- !(Xv!Y) (>a)
 !Y,!!X>!Z,!Z>!(Xv!Y) |- !!Z (!b)
 !Y,!!X>!Z,!Z>!(Xv!Y) |- Z (!a)

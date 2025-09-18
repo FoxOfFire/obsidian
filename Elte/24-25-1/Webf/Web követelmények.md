@@ -1,7 +1,7 @@
 # Általános
 
 \[Követelmény\](file:///home/fox/Linoleum_obsidian/Elte/Extern/nappalis_webfejl_kovetelmenyek_2024szept_v1.pdf)
->
+
 > ## Beadandók
 >
 > ______________________________________________________________________

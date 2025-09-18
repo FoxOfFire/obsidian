@@ -102,4 +102,4 @@ ha páros akkor páratlan := !kulcsszó
 - ASSIGN -> var er_tad ERTEK
 - IF -> ha ERTEK akkor ASSIGN | ha ERTEK akkor begin STATEMENTS end
 - ERTEK -> var | szam | ERTEK plus ERTEK | ERTEK minus ERTEK | ERTEK paros |
-    ERTEK paratlan
+  ERTEK paratlan

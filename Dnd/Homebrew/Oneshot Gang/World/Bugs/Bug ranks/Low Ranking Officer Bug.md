@@ -3,7 +3,7 @@
 > ## Description
 >
 > One of the \[[Bug Ranks]\] characterised by low inteligence,
->that are capable of making decidions.
+> that are capable of making decidions.
 >
 > ______________________________________________________________________
 >
@@ -15,4 +15,4 @@
 >
 > ## Tags
 >
->#ranks #dnd #bugs
+> #ranks #dnd #bugs

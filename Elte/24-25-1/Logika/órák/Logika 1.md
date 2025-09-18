@@ -13,7 +13,7 @@
 > ## 1
 >
 > 1 A 2 A > !B 3 (C v B) ^ (!D v C) 4 !(G ^ (!F > D)) 5 (D > E)
-   ^ ( E > D) 6 D ^ (G > F) 7 B > (!D v B)
+> ^ ( E > D) 6 D ^ (G > F) 7 B > (!D v B)
 >
 > ## Szemantikus tulajdonságok
 >
