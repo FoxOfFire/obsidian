@@ -1,10 +1,10 @@
-## 5.órai feladatok
+# 5.órai feladatok
 
 ______________________________________________________________________
 
-### 1
+## 1
 
-*Szintaktikus elemző*
+### *Szintaktikus elemző*
 
 - S -> neE | nc
 - E -> veE | C
@@ -19,12 +19,12 @@ ______________________________________________________________________
 
 ______________________________________________________________________
 
-### 2
+## 2
 
 char etuje( string s, int index);
 int osszeg( int x, int y,);
 
-*Lexikális elemző*
+### *Lexikális elemző*
 
 - [a-z]+ -> a
 
@@ -40,7 +40,7 @@ int osszeg( int x, int y,);
 
 - . -> LEXERROR
 
-*Szintaktikus elemző*
+### *Szintaktikus elemzőő*
 
 - S -> L | ε
 - L -> LL | A
@@ -49,14 +49,14 @@ int osszeg( int x, int y,);
 
 ______________________________________________________________________
 
-### 3
+## 3
 
 blokkszerkezet leírása
 begin
 skip\
 end
 
-*Lexickális elemző*
+### *Lexickális elemző*
 
 - "begin" -> b
 - "end" -> e
@@ -64,7 +64,7 @@ end
 - [ \\n] ->
 - . -> LEXERROR
 
-*Szintaktikus elemző*
+### *Szintaktikus elemzoe*
 
 - S -> ε | A
 - A -> AA | B | bAe
@@ -75,7 +75,7 @@ end
 
 ______________________________________________________________________
 
-### 4
+## 4
 
 ha páros akkor páratlan := !kulcsszó
 *Lexickális elemző*
@@ -94,11 +94,12 @@ ha páros akkor páratlan := !kulcsszó
 - [ \\n] ->
 - . -> LEXERROR
 
-*Szintaktikus elemző*
+### *Szintaktikus elemső*
 
 - S -> STATEMENTS | ε
 - STATEMENTS -> STATEMENT STATEMENTS | STATEMENT
 - STATEMENT -> ASSIGN | IF
 - ASSIGN -> var er_tad ERTEK
 - IF -> ha ERTEK akkor ASSIGN | ha ERTEK akkor begin STATEMENTS end
-- ERTEK -> var | szam | ERTEK plus ERTEK | ERTEK minus ERTEK | ERTEK paros | ERTEK paratlan
+- ERTEK -> var | szam | ERTEK plus ERTEK | ERTEK minus ERTEK | ERTEK paros |
+    ERTEK paratlan

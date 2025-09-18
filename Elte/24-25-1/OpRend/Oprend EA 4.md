@@ -1,3 +1,5 @@
+# oprend ea 4
+
 Prev: \[[Oprend EA 2]\]
 Mágnes lemezekről volt szó
 mostmeg CD DVD Blue-ray

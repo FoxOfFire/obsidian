@@ -1,3 +1,5 @@
+# eva ea 5
+
 ## narancs
 
 a régegek közt jó ha kicsi az összefüggés
@@ -21,11 +23,12 @@ függőséginyekció
 > > player\[*infók*\]
 > > szövegesben *ITextFilePersistance*
 > > modell bővül *save/load* funkciókkal
-> > érdemes separálni a bizonyos részeit a cuccnak mert akkor könnyebb észlelni az architektúrális hibákat
+> > érdemes separálni a bizonyos részeit a cuccnak,
+>> mert akkor könnyebb észlelni az architektúrális hibákat
 >
 > ## liba
 
-## narancs
+## naranccs
 
 tesztelés
 

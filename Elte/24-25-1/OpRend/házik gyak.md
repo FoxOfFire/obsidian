@@ -1,2 +1,3 @@
-c gyakorlás lol
+# c gyakorlás lol
+
 (\[[OpRend Követelmények]\])

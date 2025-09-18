@@ -1,15 +1,18 @@
+# Low ranking officer bug
+
 > ## Description
 >
-> One of the \[[Bug Ranks]\] characterised by low inteligence, that are capable of making decidions.
+> One of the \[[Bug Ranks]\] characterised by low inteligence,
+>that are capable of making decidions.
 >
 > ______________________________________________________________________
 >
-> ### Includes:
+> ## Includes
 >
 > - \[[Brood Mother]\]
 >
 > ______________________________________________________________________
 >
 > ## Tags
-
-#ranks #dnd #bugs
+>
+>#ranks #dnd #bugs

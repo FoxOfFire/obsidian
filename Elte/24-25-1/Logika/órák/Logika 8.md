@@ -1,3 +1,5 @@
+# logika 8
+
 Prev : ZH and \[[Logika 7]\]
 
 > ítélet kalkulus
@@ -89,7 +91,8 @@ ______________________________________________________________________
 ______________________________________________________________________
 
 (A>C)>((B>C)>(AvB>C))
-A>C,B>C,A|-A (azon) , A>C,B>C,A|-A>C (azon) ,A>C,B>C,B|-B>C (azon) , A>C,B>C,B|-B (azon)\
+A>C,B>C,A|-A (azon) , A>C,B>C,A|-A>C (azon) ,A>C,B>C,B|-B>C (azon) ,
+    A>C,B>C,B|-B (azon)\
 A>C,B>C,A|-C (>a), A>C,B>C,B|-C (>a)
 A>C,B>C,AvB|-C (va)
 A>C,B>C|-AvB>C (>b)

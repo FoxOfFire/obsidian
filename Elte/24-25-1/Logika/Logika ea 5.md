@@ -1,3 +1,5 @@
+# log ea 5
+
 jót tesz ha tablókban behelyettesítünk értéket
 \[[alpha behelyettesítés]\]
 \[[beta behelyettesítés]\]

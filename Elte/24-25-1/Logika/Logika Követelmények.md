@@ -1,3 +1,5 @@
+# logika követelmények
+
 > ## Heti beadandók 10db
 >
 > - minimum 10 pont

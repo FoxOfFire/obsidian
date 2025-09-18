@@ -1,4 +1,6 @@
-szekvent gyak
+# logika 11
+
+## szekvent gyak
 
 P(x),R(x) -> *E*xP(x),P(x) (azon)); P(x),R(x) -> *E*xR(x),R(x) (azon)
 P(x),R(x) -> *E*xP(x) (->*E*); P(x),R(x) -> *E*xR(x) (->*E*)
@@ -8,7 +10,7 @@ P(x)^R(x) -> *E*xP(x) (^->); P(x)^R(x) -> *E*xR(x) (^->)
 
 ______________________________________________________________________
 
-# rezolúció:
+## rezolúció
 
 Kielégíthetetlenség vizsgálat mindig
 szintaktikus kalkulus

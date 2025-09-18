@@ -1,3 +1,5 @@
+# relalg puska
+
 > - Projekció: Pi kiválasztjuk hogy melyik sorok szerepeljenek
 > - Szelekció: ?? kiválasztja azon sorokat ami megvelel a feltételnek
 > - Halmazműveletek: Unió, Metszet, Külömbség

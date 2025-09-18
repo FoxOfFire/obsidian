@@ -1,3 +1,5 @@
+# logika 2
+
 \[[Logika 1]\] volt előző részek tartalmából
 
 > ______________________________________________________________________
@@ -120,12 +122,13 @@
 > - 2b *E*y(SZ(*z*,y) ^ H(y))
 > - 3 G(*z*,*n*)
 > - 4 *A*x*E*y( G(x,y) )
-> - 5 *E*x*E*y( H(x) ^ K(y) ) \<-- booo (muszáj két külömböző kutyának lenni akkikre igaz az egyik és a másik)
+> - 5 *E*x*E*y( H(x) ^ K(y) )
+>   \<-- booo (muszáj két külömböző kutyának lenni akkikre igaz az egyik és a másik)
 > - 5 *E*x(H(x)) ^ *E*y(K(y))
 >
 > ______________________________________________________________________
 >
-> ## Változók előfordulása:
+> ## Változók előfordulása
 >
 > *A*x(P(x) ^ Q(x,y)) > *A*y( Q(z,y) )
 
@@ -138,7 +141,7 @@
 
 > ______________________________________________________________________
 >
-> ## Prímkomponensek:
+> ## Prímkomponensek
 >
 > *A*x( P(x) ^ Q(x,y) ) > ( *A*yQ(z,y) > (P(a) v Q(w)))
 > 1111111111111111111 - 2222222222 - 33333 - 44444

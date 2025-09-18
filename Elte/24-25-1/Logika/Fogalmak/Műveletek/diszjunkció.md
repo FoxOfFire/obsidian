@@ -1,3 +1,5 @@
+# diszjunkció
+
 > Jelölése: A v B
 > \[[Igazságtábla]\]ja:
 

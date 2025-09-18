@@ -1,16 +1,19 @@
+# Logika 1
+
 > ## \[[Logika Követelmények]\] óra
 >
 > ### \[[Logikai Jelölések]\]
 >
 > ______________________________________________________________________
 >
-> # [Ítéletlogika](https://canvas.elte.hu/courses/47740/files/folder/Gyakorlat) feladatai
+> ## [Ítéletlogika](https://canvas.elte.hu/courses/47740/files/folder/Gyakorlat) feladatai
 >
 > ______________________________________________________________________
 >
 > ## 1
 >
-> ## 1 A 2 A > !B 3 (C v B) ^ (!D v C) 4 !(G ^ (!F > D)) 5 (D > E) ^ ( E > D) 6 D ^ (G > F) 7 B > (!D v B)
+> 1 A 2 A > !B 3 (C v B) ^ (!D v C) 4 !(G ^ (!F > D)) 5 (D > E)
+   ^ ( E > D) 6 D ^ (G > F) 7 B > (!D v B)
 >
 > ## Szemantikus tulajdonságok
 >
@@ -27,20 +30,20 @@
 > | i | i | h | i | i |
 > | h | h | i | i | i |
 >
-> ###### ez \[[tautológia]\] mivel minden interpretáció kielégíti
+> *ez \[[tautológia]\] mivel minden interpretáció kielégíti*
 >
 > ______________________________________________________________________
 >
 > (!A > !B) ^ !(A v !B)
 >
 > | A | B | !A | !B | !A > !B | A v !B | !(A v !B) | (!A > !B) ^ !(A v !B) |
-> | --- | --- | --- | --- | ------- | ------ | --------- | --------------------- |
+> | --- | --- | --- | --- | ---- | --- | --- | ----------- |
 > | i | i | h | h | i | i | h | h |
 > | i | h | h | i | i | i | h | h |
 > | h | i | i | h | h | h | i | h |
 > | h | h | i | i | i | i | h | h |
 >
-> ###### ez \[[kielégíthetetlen]\] mivel nincs olyan interpretáció ami kielégíti
+> *ez \[[kielégíthetetlen]\] mivel nincs olyan interpretáció ami kielégíti*
 >
 > ______________________________________________________________________
 >
@@ -71,11 +74,11 @@
 | h | h | i | i | i | i | minden igaz |
 | h | h | h | i | h | h | |
 
-> ###### a formula halmaz \[[kielégíthető]\] mivel van igaz interpretáció
+> *a formula halmaz \[[kielégíthető]\] mivel van igaz interpretáció*
 >
 > ______________________________________________________________________
 >
-> ###### *zsárójel elhagyós feladat xd nincs kedvem kiírni*
+> *zsárójel elhagyós feladat xd nincs kedvem kiírni*
 >
 > ______________________________________________________________________
 

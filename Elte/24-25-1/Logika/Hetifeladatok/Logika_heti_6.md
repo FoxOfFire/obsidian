@@ -1,3 +1,5 @@
+# log heti 6
+
 {∃zR(a, z) ∨ ¬∃zQ(z), ¬∀zQ(z)} |= ¬∃xR(a, x)
 
 visszakövetkeztetéssel állapítsuk meg hogy az alábbi formulahalmaz kielégíthetetlen-e:

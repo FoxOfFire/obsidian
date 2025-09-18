@@ -1,3 +1,5 @@
+# logika heti 7
+
 Készítsünk ítéletkalkulusbeli levezetést a következő szintaktikus eldöntésproblémához!
 {¬X ∧ ¬¬Y } |- Y ∧ X ⊃ Z
 dedukciós tétel:

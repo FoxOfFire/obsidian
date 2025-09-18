@@ -1,3 +1,5 @@
+# logkiska heti 3
+
 Prev:\[[Logika_heti_2]\]
 
 - Az összes téli hónap hideg, és januárban csapadék is esik.

@@ -1,3 +1,5 @@
+# oprend ea 1
+
 > ## 2 zh
 >
 > ## booo AI:P de használjuk? xd tudják hogy használunk ai-t (no shit)

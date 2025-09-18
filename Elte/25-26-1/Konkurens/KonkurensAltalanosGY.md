@@ -1,9 +1,11 @@
-#[Canvas](https://canvas.elte.hu/courses/58124)
+# Konkurens Általános
+
+[Canvas](https://canvas.elte.hu/courses/58124)
 Java alapú tárgy (Hivatalosan Java 25)
 
 ## Elérhetőség
 
-bas@inf.elte.hu
+[email](bas@inf.elte.hu)
 van teams
 
 ## Jelenléti

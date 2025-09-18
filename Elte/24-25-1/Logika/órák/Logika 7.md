@@ -1,3 +1,5 @@
+# logika 7
+
 Prev: \[[Logika 6]\]
 Módusz ponens
 :\]

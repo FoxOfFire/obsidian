@@ -1,6 +1,6 @@
-zh gyak lol
+# Logika 10
 
-# ítélet:
+## ítélet
 
 ### {!P>Q,Q>R,!R} |- P
 
@@ -59,7 +59,7 @@ zh gyak lol
 
 bruh
 
-### {!Y^(!!X>!Z),!Z>!(Xv!Y)} |- Z
+### {!Y^(!!X>!Z),!Z>!(Xv!Y)} |- Z (2)
 
 1. !Y^(!!X>!Z) [hip]
 1. !Z>!(Xv!Y) [hip]
@@ -73,17 +73,18 @@ bruh
 1. !Z>Xv!Y [mp(6,9)]
 1. Z [mp(8,10)]
 
-# Természetes
+## Természetes
 
-### {!P>Q,Q>R,!R} |- P
+### {!P>Q,Q>R,!R} |- P (2)
 
 !P>Q,Q>R,!R,!P,Q |- Q>R (azon) ; !P>Q,Q>R,!R,!P,Q |- Q (azon)
-!P>Q,Q>R,!R,!P |- !P>Q (azon) ; !P>Q,Q>R,!R,!P |- !P (azon) ; !P>Q,Q>R,!R,!P,Q |- R (>a); !P>Q,Q>R,!R,!P,Q |- !R(azon)
+!P>Q,Q>R,!R,!P |- !P>Q (azon) ; !P>Q,Q>R,!R,!P |- !P (azon) ;
+    !P>Q,Q>R,!R,!P,Q |- R (>a); !P>Q,Q>R,!R,!P,Q |- !R(azon)
 !P>Q,Q>R,!R,!P |- Q (>a); !P>Q,Q>R,!R,!P |- !Q (!b)
 !P>Q,Q>R,!R |- !!P (!b)
 !P>Q,Q>R,!R |- P (!a)
 
-### {!!D,D>!F,(E>F)^F} |- !E
+### {!!D,D>!F,(E>F)^F} |- !E (2)
 
 !!D,D>!F,E>F,F,E |- !!D (azon)
 !!D,D>!F,E>F,F,E |- D (!a) ; !!D,D>!F,E>F,F,E |- D>!F (azon)
@@ -91,24 +92,25 @@ bruh
 !!D,D>!F,E>F,F |- !E (!a)
 !!D,D>!F,(E>F)^F |- !E (^A)
 
-### {!Y^(!!X>!Z),!Z>!(Xv!Y)} |- Z
+### {!Y^(!!X>!Z),!Z>!(Xv!Y)} |- Z (3)
 
-!Y, !!X>!Z, !Z>!(Xv!Y), !Z |- !Y (azon) ; !Y, !!X>!Z, !Z>!(Xv!Y), !Z |- !Z (azon) ; !Y, !!X>!Z, !Z>!(Xv!Y), !Z |- !Z>!(Xv!Y) (azon)
+!Y, !!X>!Z, !Z>!(Xv!Y), !Z |- !Y (azon) ; !Y, !!X>!Z, !Z>!(Xv!Y), !Z |- !Z (azon);
+    !Y, !!X>!Z, !Z>!(Xv!Y), !Z |- !Z>!(Xv!Y) (azon)
 !Y, !!X>!Z, !Z>!(Xv!Y), !Z |- Xv!Y (vb); !Y, !!X>!Z, !Z>!(Xv!Y), !Z |- !(Xv!Y) (>a)
 !Y,!!X>!Z,!Z>!(Xv!Y) |- !!Z (!b)
 !Y,!!X>!Z,!Z>!(Xv!Y) |- Z (!a)
 !Y^(!!X>!Z),!Z>!(Xv!Y) |- Z (^a)
 
-# Szekvent
+## Szekvent
 
-### {!P>Q,Q>R,!R} |- P
+### {!P>Q,Q>R,!R} |- P (3)
 
 Q>R,P-> P,R(azon) ; Q -> Q,P,R (azon) ; Q,R -> P,R (azon)
 Q>R -> P,R,!P (->!) ; Q,Q>R -> P,R (>->)
 !P>Q,Q>R -> P,R (>->)
 !P>Q,Q>R,!R -> P (->!)
 
-### {!!D,D>!F,(E>F)^F} |- !E
+### {!!D,D>!F,(E>F)^F} |- !E (3)
 
 E>F,F,E,D -> F (azon)
 E>F,F,E,D -> D (azon) ; !F,E>F,F,E,D -> (!->)
@@ -118,7 +120,7 @@ D>!F,(E>F),F,E -> !D (->!)
 !!D,D>!F,(E>F)^F,E -> (^->)
 !!D,D>!F,(E>F)^F -> !E (->!)
 
-### {!Y^(!!X>!Z),!Z>!(Xv!Y)} |- Z
+### {!Y^(!!X>!Z),!Z>!(Xv!Y)} |- Z (4)
 
 Y -> Z,Y,!!X, X (azon);!Z,Y -> Z,Y, X (azon)
 -> Z,Y,!!X, X,!Y (->!);!Z -> Z,Y, X, !Y (->!)

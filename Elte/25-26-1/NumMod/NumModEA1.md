@@ -1,3 +1,5 @@
+# NumMod ea 1
+
 \[[NM1_ea00.pdf]\]
 \[[NM1_ea01.pdf]\] p(27-ig)
 
@@ -6,7 +8,8 @@
 Összeadás nem asszociatív
 a = 1e-20 ; b = 1
 (a+b)-b = 0 ; a+(b-b) = a
-Integrállal bemutatott példán át szemléltettük hogy algoritmikus instabilitás milyen problémát tud okozni a kiszámításban
+Integrállal bemutatott példán át szemléltettük,
+hogy algoritmikus instabilitás milyen problémát tud okozni a kiszámításban
 Numerikus stabilitás fontosságát kiemelte
 
 ## Gépi számok lebegőpontos modellje
@@ -21,7 +24,8 @@ jelőlés:
 
 float ∼ M(23, −128, 127), double ∼ M(52, −1024, 1023)
 
-Két létező lebegő pontos szám közé kell belőni az ábrázoláshoz a pontos értéket, aminek kerekítéséhez (ε1)/2-vel arányos hibát kell lefogadnunk kerekítésnél.
+Két létező lebegő pontos szám közé kell belőni az ábrázoláshoz a pontos értéket,
+aminek kerekítéséhez (ε1)/2-vel arányos hibát kell lefogadnunk kerekítésnél.
 
 ## Hibaszámítás
 

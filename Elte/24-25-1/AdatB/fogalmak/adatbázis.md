@@ -1,4 +1,8 @@
-> összefüggő adatpk parktikusan rendezett gyüjteménye,ezek valamilyen rendszerven való tárolása, amely a faló világot valamilyen szempontból modellezi
+# adatbázis
+
+> összefüggő adatpk parktikusan rendezett gyüjteménye,
+> ezek valamilyen rendszerven való tárolása,
+> amely a faló világot valamilyen szempontból modellezi
 >
 > - halmaz != adatbázis
 > - régebben fizikai formát is volt hogy felvettek

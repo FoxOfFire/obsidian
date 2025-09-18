@@ -1,4 +1,4 @@
->
+# jelölések
 
 | S => Süt a nap | egyszerű ítélet változó |
 | --- | --- |

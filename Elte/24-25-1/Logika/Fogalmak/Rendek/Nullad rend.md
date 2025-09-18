@@ -1,3 +1,5 @@
+# nullad rend
+
 > A logikai műveletek:
 >
 > - ∧ -> és

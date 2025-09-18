@@ -19,7 +19,8 @@
 
 ## AI etikus használata
 
-> Keresőmotor módon meg van használva a MI de nem igazán kéne hogy az egészet oldja meg neked xddd
+> Keresőmotor módon meg van használva a MI de nem igazán kéne,
+> hogy az egészet oldja meg neked xddd
 
 ## Story
 

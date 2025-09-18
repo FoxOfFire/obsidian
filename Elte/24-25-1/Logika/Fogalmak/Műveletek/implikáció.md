@@ -1,3 +1,5 @@
+# implikáció
+
 > Jelölése: A > B
 > \[[Igazságtábla]\]ja:
 

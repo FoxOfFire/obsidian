@@ -1,8 +1,10 @@
-> ## Overview:
+# camp 1 master
+
+> ## Overview
 >
 > ______________________________________________________________________
 >
-> #### Party goals:
+> ### Party goals
 >
 > **Dungeon goal:**
 > \*(12)\*Discover and destroy a monsterspawner
@@ -17,21 +19,21 @@
 >
 > ______________________________________________________________________
 >
-> #### NPC Goals
+> ### NPC Goals
 >
 > **Villain:** The \[[Low Ranking Officer Bug]\]s around the monsterspawner
 > **Patron**: \[[The Hunter Guild]\]
 >
 > ______________________________________________________________________
 >
-> #### Location
+> ### Location
 >
 > **City:** \[[Raphan]\]
 > **Adventure:** \[[Forests of Raphan]\]
 >
 > ______________________________________________________________________
 >
-> ### Parts:
+> ## Parts
 >
 > - \[[Camp 1.1]\]
 > - \[[Camp 1.2]\]
@@ -42,6 +44,6 @@
 >
 > ______________________________________________________________________
 >
-> ## Tags
+> # Tags
 
-#dnd
+ #dnd

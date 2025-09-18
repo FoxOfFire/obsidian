@@ -1,3 +1,5 @@
+# sql
+
 > standard \[[Relációs algebra]\]-ra alapuló adatbázis kezelő nyelv
 
 ______________________________________________________________________
@@ -28,7 +30,8 @@ ______________________________________________________________________
 > >
 > > (NOT) LIKE -> mintakeresés stringekben
 > >
-> > > ## % -> akármennyi karaktert jelent _ -> tetszőleges karaktert jelent Oracle-ben felülírhatóak (valahogy xddd)
+> > > % -> akármennyi karaktert jelent _ ->
+> > > tetszőleges karaktert jelent Oracle-ben felülírhatóak (valahogy xddd)
 > > >
 > > > felbontható eredményez, de az részletkérdés
 > > > nagy/kisbetű fügő:)
@@ -55,7 +58,8 @@ ______________________________________________________________________
 > > >
 > > > SELECT * FROM tábla WHERE érték > 0 OR érték \<= 0
 > > >
-> > > > null értéket ignorálja a lekérdezés, és csak azokat a sorokat adja vissza ahol van megadva bármi az értéknek
+> > > > null értéket ignorálja a lekérdezés, és csak azokat a sorokat adja vissza
+> > > > ahol van megadva bármi az értéknek
 > > > >
 > > > > ______________________________________________________________________
 > > > >
@@ -98,7 +102,8 @@ ______________________________________________________________________
 > >
 > > ALL
 > >
-> > > x \<> ALL() akkor és csak akkor igaz, ha x az alkérdés egyetlen sorával sem egyezik meg.
+> > > x \<> ALL() akkor és csak akkor igaz,
+> > > ha x az alkérdés egyetlen sorával sem egyezik meg.
 >
 > ______________________________________________________________________
 >

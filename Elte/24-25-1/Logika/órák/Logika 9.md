@@ -1,3 +1,5 @@
+# logika 9
+
 biz hogy: |- G v !G
 
 !(G v !G), G |- G [azon]

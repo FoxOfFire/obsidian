@@ -1,3 +1,5 @@
+# logika heti 2
+
 Prev: \[[Logika_heti_1]\]
 E -> eszek levest
 F -> aztmondom hogy finom a leves
@@ -21,4 +23,5 @@ igazolás *(markdown)* táblázattal
 | h | i | h | i | h | h | h |
 | h | h | i | h | i | h | h |
 | h | h | h | i | i | h | h |
+
 a formula az igazságtáblázat 4 srában kielégíthető ezért {1,2,3} ⊨ 4

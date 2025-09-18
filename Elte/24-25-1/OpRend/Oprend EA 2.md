@@ -1,3 +1,5 @@
+# oprend ea 2
+
 Prev: \[[Oprend EA 1]\]
 
 > - oprend processvédelmi dolgokról esik szó lemaradtam az óra elejéről tbh
@@ -30,7 +32,8 @@ ______________________________________________________________________
 > ## POSIX
 >
 > - Portable Operating System Interface for uniX
-> - folyamatkezelés, fájlműveletek, aszinkron/szinkron I/O, szálak kezelése, folyamatok kezelése
+> - folyamatkezelés, fájlműveletek, aszinkron/szinkron I/O, szálak kezelése,
+>   folyamatok kezelése
 >
 > ______________________________________________________________________
 >

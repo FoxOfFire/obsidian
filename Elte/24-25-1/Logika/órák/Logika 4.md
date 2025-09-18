@@ -1,3 +1,5 @@
+# logika 4
+
 \[[Logika 3]\]ra nem jöttem be lol
 \[[Logika 2]\] volt így az előző
 

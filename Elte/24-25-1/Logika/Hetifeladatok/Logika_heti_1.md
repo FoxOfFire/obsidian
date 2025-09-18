@@ -1,3 +1,5 @@
+# logika heti 1
+
 Prev: \[[Logika Követelmények]\]
 E -> eszek levest
 F -> aztmondom hogy finom a leves

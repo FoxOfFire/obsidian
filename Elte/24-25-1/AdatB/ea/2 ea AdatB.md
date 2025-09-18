@@ -1,3 +1,5 @@
+# adatb ea 2
+
 > ## Previously on \[[1 ea AdatB]\]
 >
 > Természetes összekapcsolás
@@ -29,7 +31,8 @@
 >
 > monotonitás
 >
-> > A × B (× tetszőleges reláció) eredménye nem csökken ha felveszünk tetszőleges új sort A (matematikai)vagy B táblába
+> > A × B (× tetszőleges reláció) eredménye nem csökken,
+> > ha felveszünk tetszőleges új sort A (matematikai)vagy B táblába
 >
 > külömbség képzés
 >

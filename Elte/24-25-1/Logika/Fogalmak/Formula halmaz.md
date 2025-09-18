@@ -1,1 +1,1 @@
-> formulák halmaza xd
+# formulák halmaza xd

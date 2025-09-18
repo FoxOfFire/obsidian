@@ -1,3 +1,5 @@
+# adatb ea 5
+
 tranzakció kezelés
 paralel interakciókat le kell kezelni
 sorbarendezhetőség -> fontos hogy legyen műveleti sorrend az egyes lekérdezések közt

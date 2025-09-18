@@ -1,3 +1,5 @@
+# Nummod általános
+
 ## [Hiányzás](https://canvas.elte.hu/courses/57298/pages/tudnivalok-a-hianyzasokrol)
 
 > Kötelező bejárás
@@ -11,4 +13,4 @@
 > Vizsga Szóbeli
 > [Hivatalós Felkészülési guide](https://canvas.elte.hu/courses/57298/pages/hogyan-keszuljek-a-vizsgara)
 
-## Előadás fel van véve Teamsen!
+## Előadás fel van véve Teamsen

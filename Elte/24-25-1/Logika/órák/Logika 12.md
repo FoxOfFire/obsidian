@@ -1,3 +1,5 @@
+# Logika 12
+
 Prenexre hozás szabályai:
 !*A*xP(x) => *E*x(!P(x))
 !*E*xP(x) => *A*x(!P(x))

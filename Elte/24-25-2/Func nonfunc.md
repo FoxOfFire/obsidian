@@ -1,1 +1,6 @@
-"Funkcionális és nem funkcionális specifikáció: A funkcionális specifikáció a rendszer funkcióit és viselkedését írja le (pl. mit csinál a felhasználó egy adott műveletnél), míg a nem funkcionális specifikáció a teljesítmény-, biztonsági és egyéb minőségi követelményeket határozza meg." - ChatGPT
+# func nonfunc def
+
+"Funkcionális és nem funkcionális specifikáció: A funkcionális specifikáció a
+rendszer funkcióit és viselkedését írja le (pl. mit csinál a felhasználó egy
+adott műveletnél), míg a nem funkcionális specifikáció a teljesítmény-,
+biztonsági és egyéb minőségi követelményeket határozza meg." - ChatGPT

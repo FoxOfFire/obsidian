@@ -1,3 +1,5 @@
+# tablókalkulus
+
 > Formulái \[[Nullad rend]\]ben (α és β szabályok):
 >
 > > T(¬A) -> F(A)

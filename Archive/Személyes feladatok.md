@@ -1,18 +1,20 @@
+# személyes feladatok
+
 > ## Later
 >
 > - Pszichológus felhívása
-
+>
 > ## Weekly
 >
 > - Tanulás (\[[Heti feladatok]\])
 > - [Email](https://mail.google.com/mail/u/1/#inbox) check
 > - \[[Követelmények]\] ellenőrzése
 > - Edzés (Min 100 PAI)
-
+>
 > ## TODO
 >
 > -
-
+>
 > ## Done
 >
 > - Eva tasks:) -> Liba narancs -> \[[mentor gyak jegy]\]féle gyakorlás

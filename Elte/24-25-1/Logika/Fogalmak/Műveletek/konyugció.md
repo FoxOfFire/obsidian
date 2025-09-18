@@ -1,3 +1,5 @@
+# konnyukció
+
 > Jelölése: A ^ B
 > \[[Igazságtábla]\]ja:
 

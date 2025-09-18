@@ -1,3 +1,5 @@
+# negáció
+
 > Jelölése: !A
 > \[[Igazságtábla]\]ja:
 
