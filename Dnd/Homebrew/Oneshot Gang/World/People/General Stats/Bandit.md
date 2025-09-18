@@ -1,3 +1,5 @@
+# bandit
+
 > *Medium Humanoid (any race), any non-lawful alignment*
 >
 > ______________________________________________________________________
@@ -20,14 +22,18 @@
 >
 > ______________________________________________________________________
 >
-> ### Actions
+> ## Actions
 >
-> ***Scimitar.*** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) slashing damage.
+> ***Scimitar.***
+>> -Melee Weapon Attack:- +3 to hit, reach 5 ft., one target.
+>>-Hit:- 4 (1d6 + 1) slashing damage.
 >
-> ***Light Crossbow.*** _Ranged Weapon Attack:_ +3 to hit, range 80/320 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
+> ***Light Crossbow.***
+>> -Ranged Weapon Attack:- +3 to hit, range 80/320 ft., one target.
+>>-Hit:- 5 (1d8 + 1) piercing damage.
 >
 > > ______________________________________________________________________
 >
-> ## Tags:
+> ## Tags
 >
 > #dnd #World #people #Stats
