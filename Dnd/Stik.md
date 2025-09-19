@@ -34,6 +34,26 @@ ______________________________________________________________________
 |||Quaterstaffs||
 |||Light Crossbows||
 
+### Actions
+
+|Name|Speed|Bonus|Effect|Range|Cost|
+|----|-----|-----|------|---|---|
+|Knife+Staff|Action|+2|1d(6/8)*prc*|5ft|-|
+|Dagger|Action|+4|1d4+2|5ft|-|
+|Light Crossbow|Action|+4|1d8+2*prc*|80ft/320ft|-|
+|Draconic Cry|Bonus Action|-|Advantage vs enemies|10ft|2/long rest|
+|Poison Spray|Action|Con 13|1d12*psn*|10ft|-|
+|Infestation|Action|Con 13|1d6*psn*+move|30ft|-|
+|Mending|1m|-|Repaire tare|Touch|-|
+|Prestidigitation|Acton|-|Magic trick|10ft|-|
+|Mage Hand|Action|-|1m -> floating hand|30ft|-|
+|Ray of Sickness|Action|+5|(2+n)d8*psn*+poisoned|60ft|1lvl|
+|Fog Cloud|Action|-|(20+20n)ft Obscured|120ft|1lvl|
+|Dragon's Breath|Bonus Action|-|1m Con -> Breath|Touch|2lvl|
+|Breath Attack|Action|Dex 13|(3+n)d6*psn*|15ft Cone|-|
+|Misty Step|Bonus Action| - | tp visible 30ft| Self|2lvl|
+|Invisibility|Action| - | 1h Con -> Invis| Touch|2lvl|
+
 ### Features
 
 #### Darkvision
@@ -62,8 +82,187 @@ ______________________________________________________________________
 
 #### Metamagic
 
-> TODO
+##### Careful Spell
+
+> Creature of choice up to Cha modifier automatically succedes
+> a the saving throw for a spell
+
+##### Subtle Spell
+
+> Cast a spell without verbal or somatic components
 
 #### Luck (trinket)
 
+> Reroll a chosen d20 once per long rest
+
 #### Poisoner Feat
+
+> Ignore poison resistance
+> Apply poison is a Bonus Action
+>
+> **Create Deadly Poison**
+>
+> > Amount determined by proficiency bonus
+> > 50 gp | 1h
+> > 14 constitution saving throw
+> > on failed: 2d8 poison damage + poisoned status effect for a turn
+> > on success: nothing happens
+>
+> **Spot Poisoned Item**
+>
+> > Can identify poisoned objects
+>
+> **Identify Poison**
+>
+> > Can identify the effect of a poison
+
+______________________________________________________________________
+
+## Inventory
+
+|cp|sp|ep|gp|pp|
+|---|---|---|---|---|
+|6|5| |108|3|
+
+### In hand
+
+- Common cloathes
+- Light Crossbow
+- Knive ducktaped to a Quaterstaff
+- Shortbow
+- Scimitar
+- Paper bird of magic massage
+- Bottle of Greece
+
+### Backpack
+
+- Poisoners kit
+- Herbalism kit
+- Luck trinket
+- Spellbook (Burning hands, False life, Unseen servant, Disguise self, Shield)
+- Bottle of whine
+- Weak Poison Materials (1 *psn* on DC 9 Con save)
+- Book of Poisons
+
+### Misc
+
+- Bedroll
+- Mess kit
+- Rations 10
+- Hemp rope 50ft
+- Tinderbox
+- Torch 10
+- Waterskin
+
+______________________________________________________________________
+
+## Spellcasting
+
+| Ability (Cha)|Spell Save DC|Attack Bonus|Sorcery Points|
+|---|---|---|---|
+|+3|13|+5|4|
+
+|Spell|Slot|
+|---|---|
+|Level 1|4|
+|Level 2|3|
+|Level 3|0|
+
+### Spell List
+>
+>#### Cantrips
+>
+> **Poison Spray**
+> > 1 Action, 10ft, *(VS)*
+> > Con Save, on fail 1d12*psn*
+>
+> **Infestation**
+> > 1 Action, 30ft, *(VSM)*
+> > Con Save, on fail 1d6*psn*, move to 1d4 dir
+>
+> **Mending**
+> > 1 Minute, Touch, *(VSM)*
+> > Repair one tear in an object that is less than a foot in diameter
+>
+> **Prestidigitation**
+> > A Action, 10ft, for:1h, *(VS)*
+> > Do a magic trick
+> > Create a shower of sparks, a puff of wind, faint musical notes, an odd odor
+> > Light or snuff out a candle, a torch, or a small campfire
+> > Clean or soil an object no larger than 1 cubic foot
+> > Chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour
+> > Make a small mark, or a symbol appear on an object or a surface for 1 hour
+> > Create a trinket or an illusory image that can fit in your hand that lasts 6s
+> > *max 3 noninstant effect at a time*
+>
+> **Mage Hand**
+> > 1 Action, 30ft, for:1h, *(VS)*
+> > Summon a hand that can manipulate objects
+> > Can't go out of range or carry more than 10lb
+> > Can't attack or activate magic items
+>
+>#### Level 1
+>
+>**Ray of Sickness**
+>> 1 Action, 60ft, *(VS)*
+>> Attack roll: (2+n)d8 *psn* -> Con save -> Poisoned status for a turn
+>
+>**Fog Cloud**
+>> 1 Action, 120ft, Concentration:1h, *(VS)*
+>> Create a s(20+20n)ft radius sphere of Heavily Obscured Area
+>> Moderate winds cause it to disapear
+>
+>#### Level 2
+>
+>**Dragon's Breath**
+>>1 Bonus Action, Touch, Concentration:1m, *(VSM)*
+>>Willing creature is given a breath attack of (acid, cold, fire, lightning, poison)
+>>1 Action speed, 15ft cone radious, Dex Save, (3+n)d6 or half on save
+>
+>**Misty Step**
+>>1 Bonuc Action, Self, *(V)*
+>>Teleport to a space within 30ft that you can see
+>
+>**Invisibility**
+>> 1 Action, Touch, Concentration:1h, *(V,S,M)*
+>> 1+n willing target, and their cloaths become invisible
+>> attacking, and casting a spell breaks this effect
+
+______________________________________________________________________
+
+## Personality
+
+>**Traits**
+> The key of a succesfful business is a good reputation and loyal customers.
+> I don't trust in folks very easily
+>
+> **Ideals**
+> If you help me than I'll help you
+> It is best to use violence only if it is neccessary
+>
+> **Bonds**
+> I want to create the strongest poison known to man
+> There is no moral difference between selling a poison or its antidote
+>
+> **Flaws**
+> I like to test my poisons on folks
+> If the police aren't able to interfere anything is legal
+
+## Character Backstory
+
+> When Stik was a child he found a medical textbook containing a list of
+> well known poisons, and How to treat them in.
+> After reading it front to back he realised he wants to study these substances.
+> He went to medical school and realised that testing these is exhilirating.
+> Now he wishes to test and sell them for a living
+>
+> His mother is a Sorcerer
+> His father is a Pharmacist
+> He lives in Waterdeep
+
+## Allies and Organisations
+
+>**Waterdeep**
+> Guild of Apothicaries and Physicians (3gp / month)
+> Watchful Order of Magists and Protectors
+> Waterdeep cityzen (1sp / month)
