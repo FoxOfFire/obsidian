@@ -4,14 +4,14 @@ bit paritásokkal való bíbelődés
 
 | 1 | 2 | 3 | 4 |Check|
 |---|---|---|---|-----|
-| 1 | 0 | 1 | 1 |  1  |
-| 1 | 0 | 0 | 1 |  0  |
-| 0 | 0 | 0 | 1 |  1  |
-|---|---|---|---|     |
-| 0 | 0 | 1 | 1 |     |
+| 1 | 0 | 1 | 1 | 1 |
+| 1 | 0 | 0 | 1 | 0 |
+| 0 | 0 | 0 | 1 | 1 |
+|---|---|---|---| |
+| 0 | 0 | 1 | 1 | |
 
 ## CRC
->
+
 > ### Egyszerű példa
 >
 > Üzenet: 1101 (x^3+x^2+1)
@@ -25,9 +25,9 @@ bit paritásokkal való bíbelődés
 > Ha maradék = 0 → jó.
 >
 > Ha ≠ 0 → hiba.
->
+
 ## feladatok
->
+
 > ### 1
 >
 > A 7 bites kódszavak alkotják a kódkönyvtárat. Adjunk hozzá egy paritásbitet,

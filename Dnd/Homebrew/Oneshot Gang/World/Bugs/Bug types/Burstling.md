@@ -45,7 +45,8 @@
 >
 > > Can hide underground, but is unable to move underground. Can be reveald by
 > > a perseption check, in which case this creature makes a stealth check.
-> > If the perception check is equal or greater than the stealt, the creature is revealed.
+> > If the perception check is equal or greater than the stealt,
+> > the creature is revealed.
 >
 > ***Explode on death.***
 >
