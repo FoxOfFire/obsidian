@@ -151,7 +151,7 @@ ______________________________________________________________________
 > 1 *psn* on failed DC 9 Con save
 >
 > **Deadly Poison**
-> 2d8 *psn* and *poisoned* on failed DC 14 Con save
+> 2d8 *psn* and poisoned on failed DC 14 Con save
 
 ______________________________________________________________________
 
@@ -242,12 +242,13 @@ ______________________________________________________________________
 ## Personality
 
 > **Traits**
-> The key of a succesfful business is a good reputation and loyal customers.
+> The key of a succesfful business is a good reputation and loyal customers
 > I don't trust in folks very easily
 >
 > **Ideals**
 > If you help me than I'll help you
-> It is best to use violence only if it is neccessary
+> I will only use violance if somebody in my group is attacked first
+> I am cautious to never get on the wrong side of the law
 >
 > **Bonds**
 > I want to create the strongest poison known to man
