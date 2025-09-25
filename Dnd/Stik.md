@@ -6,56 +6,56 @@ ______________________________________________________________________
 
 ### Basic
 
-|Class|Alignment|Race|
-|---|---|---|
-| **Draconic Sorcerer 4** |**True Neutral** | **Kobold**|
+| Class | Alignment | Race |
+|-------------------------|------------------|-----------|
+| **Draconic Sorcerer 4** | **True Neutral** | **Kobold**|
 
-| **Armor Class** |**Hit Points** |**Speed** |**Initiative**|**Proficiency Bonus**|
-|---|---|---|---|---|
-|15|30|30ft|+2|+2|
+| **Armor Class** | **Hit Points** | **Speed** | **Initiative** | **Proficiency Bonus** |
+|----|----|------|----|----|
+| 15 | 30 | 30ft | +2 | +2 |
 
 ### Modifiers
 
-| Str | Dex | Con | Int | Wis | Cha |
+| -Str- | -Dex- | -Con- | -Int- | -Wis- | -Cha- |
 |-------|-------|-------|-------|-------|-------|
 |10 (+0)|14 (+2)|14 (+2)|12 (+1)|12 (+1)|17 (+3)|
 |-------|-------|-------|-------|-------|-------|
-| | |**Save**||Medicine |**Save**|
-| | | | | |Deception|
-| | | | | |Persuasion|
+| ----- | ----- |*Save* | ----- |Medicine|*Save*|
+| ----- | ----- | ----- | ----- | ----- |Deception|
+| ----- | ----- | ----- | ----- | ----- |Persuasion|
 
 ### Other skills
 
 |Languages|Armor|Weapons|Tools|
-|---|---|---|---|
-|Common||Daggers|Three Dragon Ante|
-|Draconic||Darts|Poisoners kit|
-|Gnome||Slings|Herbalism kit|
-|||Quaterstaffs||
-|||Light Crossbows||
+|---------|-----|-------|-----|
+| Common | ---- | Daggers | Three Dragon Ante |
+| Draconic | -- | Darts | Poisoners kit |
+| Gnome | ------| Slings | Herbalism kit |
+| ------- | --- | Quaterstaffs | - |
+| ------- | --- | Light Crossbows | - |
 
 ### Actions
 
 |Name|Speed|Bonus|Effect|Range|Cost|
-|----|-----|-----|------|---|---|
-|Knife+Staff|Action|+2|1d(6/8)*prc*|5ft|-|
-|Dagger|Action|+4|1d4+2|5ft|-|
-|Light Crossbow|Action|+4|1d8+2*prc*|80ft/320ft|-|
-|Draconic Cry|Bonus Action|-|Advantage vs enemies|10ft|2/long rest|
-|*Cantrips*|*---*|*---*|*---*|*---*|*---*|
-|Poison Spray|Action|Con 13|1d12*psn*|10ft|-|
-|Infestation|Action|Con 13|1d6*psn*+move|30ft|-|
-|Mending|1m|-|Repaire tare|Touch|-|
-|Prestidigitation|Acton|-|Magic trick|10ft|-|
-|Mage Hand|Action|-|1m -> floating hand|30ft|-|
-|*Level 1*|*---*|*---*|*---*|*---*|*---*|
-|Ray of Sickness|Action|+5|(2+n)d8*psn*+poisoned|60ft|1lvl|
-|Fog Cloud|Action|-|(20+20n)ft Obscured|120ft|1lvl|
-|*Level 2*|*---*|*---*|*---*|*---*|*---*|
-|Dragon's Breath|Bonus Action|-|1m Con -> Breath|Touch|2lvl|
-|Breath Attack|Action|Dex 13|(3+n)d6*psn*|15ft Cone|-|
-|Misty Step|Bonus Action| - | tp visible 30ft| Self|2lvl|
-|Invisibility|Action| - | 1h Con -> Invis| Touch|2lvl|
+|----|-----|-----|------|-----|----|
+| Knife+Staff| Action| +2| 1d(6/8)*prc*| 5ft| -|
+| Dagger | Action | +4 | 1d4+2 | 5ft | - |
+| Light Crossbow | Action | +4 | 1d8+2*prc* | 80ft/320ft | - |
+| Draconic Cry | Bonus Action | - | Advantage vs enemies | 10ft | 2/long rest |
+| *Cantrips* | *---* | *---* | *---* | *---* | *---* |
+| Poison Spray | Action | Con 13 | 1d12*psn* | 10ft | - |
+| Infestation | Action | Con 13 | 1d6*psn*+move | 30ft | - |
+| Mending | 1m | - | Repaire tare | Touch | - |
+| Prestidigitation | Acton | - | Magic trick | 10ft | - |
+| Mage Hand | Action | - | 1m -> floating hand | 30ft | - |
+| *Level 1* | *---* | *---* | *---* | *---* | *---* |
+| Ray of Sickness | Action | +5 | (2+n)d8*psn*+poisoned | 60ft | 1lvl |
+| Fog Cloud | Action | - | (20+20n)ft Obscured | 120ft | 1lvl |
+| *Level 2* | *---* | *---* | *---* | *---* | *---* |
+| Dragon's Breath | Bonus Action | - | 1m Con -> Breath | Touch | 2lvl |
+| Breath Attack | Action | Dex 13 | (3+n)d6*psn* | 15ft Cone | - |
+| Misty Step | Bonus Action | - | tp visible 30ft | Self | 2lvl |
+| Invisibility | Action | - | 1h Con -> Invis | Touch | 2lvl |
 
 ### Features
 
@@ -85,13 +85,11 @@ ______________________________________________________________________
 
 #### Metamagic
 
-##### Careful Spell
-
+>**Careful Spell**
 > Creature of choice up to Cha modifier automatically succedes
 > a the saving throw for a spell
-
-##### Subtle Spell
-
+>
+>**Subtle Spell**
 > Cast a spell without verbal or somatic components
 
 #### Luck (trinket)
@@ -104,20 +102,17 @@ ______________________________________________________________________
 > Apply poison is a Bonus Action
 >
 > **Create Deadly Poison**
->
-> > Amount determined by proficiency bonus
-> > 50 gp | 1h
-> > 14 constitution saving throw
-> > on failed: 2d8 poison damage + poisoned status effect for a turn
-> > on success: nothing happens
+> Amount determined by proficiency bonus
+> 50 gp | 1h
+> 14 constitution saving throw
+> on failed: 2d8 poison damage + poisoned status effect for a turn
+> on success: nothing happens
 >
 > **Spot Poisoned Item**
->
-> > Can identify poisoned objects
+> Can identify poisoned objects
 >
 > **Identify Poison**
->
-> > Can identify the effect of a poison
+> Can identify the effect of a poison
 
 ______________________________________________________________________
 
@@ -125,18 +120,18 @@ ______________________________________________________________________
 
 |cp |sp |ep |gp |pp |
 |---|---|---|---|---|
-|  6|  5|  0|108|  3|
+| 6 | 5 | 0 |108| 2 |
 
 |In hand|Backpack|Misc|
-|---|---|---|
-| Common cloathes |Poisoners kit| Bedroll|
-| Light Crossbow |Herbalism kit| Mess kit|
-| Knive ducktaped to a Staff|Luck trinket| Rations 10|
-| Dagger 3x|Spellbook |Hemp Rope 50ft|
-| Scimitar |Bottle of whine|Tinderbox|
-|Shortbow | Weak Poison Materials |Torch 10|
-| Bottle of Greece |Book of Poisons|Waterskin|
-|Paper bird of magic massage|-|-|
+|-------|--------|----|
+| Common cloathes | Poisoners kit | Bedroll |
+| Light Crossbow | Herbalism kit | Mess kit |
+| WandKnife | Luck trinket| Rations 10 |
+| Dagger 2x | Spellbook | Hemp Rope 50ft |
+| Knive ducktaped to a Staff | Bottle of whine | Tinderbox |
+| Shortbow | Weak Poison 1 | Torch 10 |
+| Bottle of Greece | Book of Poisons | Waterskin |
+| Paper bird of magic massage | - | - |
 
 ### Notes
 
@@ -152,20 +147,24 @@ ______________________________________________________________________
 >
 > **Deadly Poison**
 > 2d8 *psn* and poisoned on failed DC 14 Con save
+>
+> **WandKnife**
+> 1d4 dagger and *poison spray 1d4*
+> spell focus and *dagger attack 1d4*
 
 ______________________________________________________________________
 
 ## Spellcasting
 
 | Ability (Cha)|Spell Save DC|Attack Bonus|Sorcery Points|
-|---|---|---|---|
-|+3|13|+5|4|
+|--------------|-------------|------------|--------------|
+| +3| 13| +5| 4|
 
-|Spell|Slot|
-|---|---|
-|Level 1|4|
-|Level 2|3|
-|Level 3|0|
+| Spell | Slot |
+|-------|------|
+|Level 1| 4|
+|Level 2| 3|
+|Level 3| 0|
 
 ### Spell List
 
