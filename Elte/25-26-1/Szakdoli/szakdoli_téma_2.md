@@ -1,0 +1,5 @@
+# Szakdoli téma 2
+
+## Modern Rogue-like kártya-játékok gyakorlati implementációja
+
+Szakdolgozatom témája a rogue-like játékok gyakorlati implementációja köré épül. Diplomamunkámban arról fogok írni hogy ennek a műfajnak a működéséhez milyen rendszerek szükségesek, és hogy milyen módon lehet megvalósítani egy ilyen típusú játékot. A leírásban ki fogok térni többek között a kártyakezelés rendszereire, a szinergiák alapelveire és a körök közötti változatosság fontosságára. A működés bemutatásához egy saját szoftveremet fogom használni, amely egy olyan kártyajáték, amit ezen elvek alapján építettem fel. A rogue-like játékokra jellemző a maradandó halál, a körökre osztott játékmenet és a bizonyos teljesítmények után kapott variációs lehetőségek. A játékomban egy boszorkány szerepében próbáljuk megvédeni magunkat az inkvizíció folyamatos támadásaival szemben.
