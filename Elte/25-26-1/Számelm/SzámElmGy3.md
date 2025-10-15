@@ -31,10 +31,10 @@ pl: *d(q0,a)=q1*
 > "ami rossz azt biztosan nem fogadja el, ami jó azt legalább egy levezetéssel elfogadja"
 > d: QxT->L^Q *(Q összes részhalmaza)*
 
----
+______________________________________________________________________
 
 ## Veremautómaták
->
+
 > Tartalmaz:
 >
 > - Logika
@@ -60,80 +60,79 @@ pl: *d(q0,a)=q1*
 > (#,a)->#a
 > -------->
 >
->L(A)={U€T\*|Vq0U=>lr,v€Z\*,l€Z*,r€F}
->N(A)={U€T\*|Vq0U=>p,v€Z\*,P€Q} (Kiürített verem és elfogyott input szallag => elfogadás)
+> L(A)={U€T\*|Vq0U=>lr,v€Z\*,l€Z\*,r€F}
+> N(A)={U€T\*|Vq0U=>p,v€Z\*,P€Q} (Kiürített verem és elfogyott input szallag => elfogadás)
 
 ## Feladatok
->
-> ***L1 = {a^nb^n|n>=1} aaabbb***
->>
->> **0**
->> (#,a)->#a 0
->> (a,a)->aa 0
->> (a,b)->*e* 1
->>
->> **1** *elfogadó állapot*
->> (a,b)->*e* 1
->>
->> **aaabbb levezetése***
->> #0aaabbb -> #a0aabbb -> #aa0abbb -> #aaa0bbb -> #aa1bb -> #a1b -> #1
->>
-> ***L2 = {UcU^-1|U€{a,b}+} abbcbba***
->>
->> **0**
->> (#,a)->#a 0
->> (#,b)->#b 0
->> (a,a)->aa 0
->> (b,a)->ba 0
->> (a,b)->ab 0
->> (b,b)->bb 0
->> (#,c)->*e* 1
->> (a,c)->*e* 1
->> (b,c)->*e* 1
->>
->> **1** *elfogadó állapot
->> (a,a)->*e* 1
->> (b,b)->*e* 1
->>
->> **abbcbba levezetése**
->> #0abbcbba -> #a0bbcbba -> #ab0bcbba -> #abb0cbba ->
->> -> #abb1bba -> #ab1ba -> #a1a -> #1
->>
-> L3 = {UU^-1|U€{a,b}+} abbaabba
->>
->> **0**
->> (#,a)->#a 0
->> (#,b)->#b 0
->> (a,a)->aa 0
->> (b,a)->ba 0
->> (a,b)->ab 0
->> (b,b)->bb 0
->> (b,*e*)->b 1
->> (a,*e*)->a 1
->>
->> **1** *elfogadó állapot
->> (a,a)->*e* 1
->> (b,b)->*e* 1
->>
->> **abbbba levezetése**
->> #0abbbba -> #a0bbbba -> #ab0bbba -> #abb0bba -> #abb1bba -> #ab1ba -> #a1a -> #1
->>
-> ***L4 = {U€{a,b}+|la(U)=lb(U)} abbaab***
->>
->> **0**
->> (#,a)->#a 1
->> (#,b)->#b 2
->>
->> **1**
->> (a,a)->aa 1
->> (a,b)->*e* 1
->> (#,*e*)-># 3
->>
->> **2**
->> (b,b)->bb 2
->> (b,a)->*e* 2
->> (#,*e*)-># 3
->>
->> **3** 
->> *elfogadó állapot**
 
+> ***L1 = {a^nb^n|n>=1} aaabbb***
+>
+> > **0**
+> > (#,a)->#a 0
+> > (a,a)->aa 0
+> > (a,b)->*e* 1
+> >
+> > **1** *elfogadó állapot*
+> > (a,b)->*e* 1
+> >
+> > **aaabbb levezetése**\*
+> > #0aaabbb -> #a0aabbb -> #aa0abbb -> #aaa0bbb -> #aa1bb -> #a1b -> #1
+>
+> ***L2 = {UcU^-1|U€{a,b}+} abbcbba***
+>
+> > **0**
+> > (#,a)->#a 0
+> > (#,b)->#b 0
+> > (a,a)->aa 0
+> > (b,a)->ba 0
+> > (a,b)->ab 0
+> > (b,b)->bb 0
+> > (#,c)->*e* 1
+> > (a,c)->*e* 1
+> > (b,c)->*e* 1
+> >
+> > **1** \*elfogadó állapot
+> > (a,a)->*e* 1
+> > (b,b)->*e* 1
+> >
+> > **abbcbba levezetése**
+> > #0abbcbba -> #a0bbcbba -> #ab0bcbba -> #abb0cbba ->
+> > -> #abb1bba -> #ab1ba -> #a1a -> #1
+>
+> L3 = {UU^-1|U€{a,b}+} abbaabba
+>
+> > **0**
+> > (#,a)->#a 0
+> > (#,b)->#b 0
+> > (a,a)->aa 0
+> > (b,a)->ba 0
+> > (a,b)->ab 0
+> > (b,b)->bb 0
+> > (b,*e*)->b 1
+> > (a,*e*)->a 1
+> >
+> > **1** \*elfogadó állapot
+> > (a,a)->*e* 1
+> > (b,b)->*e* 1
+> >
+> > **abbbba levezetése**
+> > #0abbbba -> #a0bbbba -> #ab0bbba -> #abb0bba -> #abb1bba -> #ab1ba -> #a1a -> #1
+>
+> ***L4 = {U€{a,b}+|la(U)=lb(U)} abbaab***
+>
+> > **0**
+> > (#,a)->#a 1
+> > (#,b)->#b 2
+> >
+> > **1**
+> > (a,a)->aa 1
+> > (a,b)->*e* 1
+> > (#,*e*)-># 3
+> >
+> > **2**
+> > (b,b)->bb 2
+> > (b,a)->*e* 2
+> > (#,*e*)-># 3
+> >
+> > **3**
+> > *elfogadó állapot*\*
