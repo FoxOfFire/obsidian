@@ -1,0 +1,41 @@
+# gy8
+
+## új számítás modell
+
+### prevously
+
+- végesautómták (reguláris nyelvek)
+- veremautómaták (2es típusú nyelvek)
+
+### now: turing gép
+
+mindenre képes ami kiszámítható algoritmikusan
+
+író/olvasó feje van
+jobbra/ballra mozogHAT
+
+üres szalagrész létezik és jelölése _
+
+M=<Q,S,G,d,q0,qi,qn>
+Q -> Állapotok halmaza
+S (Szigma) -> input
+G (gamma) -> szalag szinbólumhalmaza (S€G)
+d (delta) -> (Q\{qi,qn})xG->QxGx{R,L,S}
+q0 -> kezdő állapot
+qi -> elfogadó állapot (terminál ebbe érkezéssel)
+qn -> elutasító állapot (terminál ebbe érkezéssel)
+
+nincs olyan hogy nem definiált átmenet, mindent definiálunk
+
+b/c,R -> b-t olvasunk kicseréljük c-re és jobbralépünk
+
+uqv -> u,v€G* | v!=e
+
+- ab(q1)ba -> abba és a második b-n van az olvasófej
+ezáltal alkalmazva a b/c,R -t
+- abc(q2)a
+a/a,R
+- abca(q3)_
+
+kezdökonfig:
+q0U | U€S
